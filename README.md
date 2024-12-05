@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash684880&label=Profile%20views&color=0e75b6&style=flat" alt="prakash684880" /> </p>
 
 
-- 🔭 I’m currently Studying **Bsc.CIST**
+- 🔭 I completed my **Bsc.CIST**
 
 - 🌱 I’m currently learning **MERN**
 
